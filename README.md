@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pw4redr4bttuaf2l?svg=true)](https://ci.appveyor.com/project/Xomigrek/postmanecho)
